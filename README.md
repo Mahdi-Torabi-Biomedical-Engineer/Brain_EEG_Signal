@@ -25,7 +25,6 @@ EEG
 % Plot a sample EEG signal
 plot_simEEG(EEG,31,10)
 ```
-
 ![Figure 1: Example EEG Time Series](images/EEG_Time_Series.png)
 
 ### 2. Alpha Band Source Separation
