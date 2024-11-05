@@ -26,7 +26,6 @@ EEG
 plot_simEEG(EEG,31,10)
 ```
 ![Figure 1: Example EEG Time Series](images/EEG_Time_Series.png)
-
 ### 2. Alpha Band Source Separation
 
 To focus on the alpha frequency band, filter the EEG data and calculate covariance matrices for each trial to prepare for GED.
