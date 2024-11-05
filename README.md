@@ -85,7 +85,7 @@ Amplitude correlations between components show how the power of oscillations in 
 
 Finally, we visualize the spatial distribution of the strongest GED components using topographic maps. These maps illustrate the scalp locations most strongly associated with each component, highlighting brain regions where alpha-band activity is most prominent. This step is critical for understanding the spatial layout of functional brain networks associated with the alpha band.
 
-![Figure 7: Correlation Matrix for Amplitude Time Series](images/8 components.png)
+![Figure 7: Correlation Matrix for Amplitude Time Series](images/8_components.png)
 
 ## Conclusion
 This project showcases the potential of GED and alpha-band analysis for EEG signal processing, enabling in-depth exploration of brain connectivity and rhythmic activity. By isolating and analyzing alpha-band components, we can better understand the neural mechanisms underlying cognitive states and identify patterns of connectivity associated with various mental processes.
